@@ -1,0 +1,41 @@
+.sentMail {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin-left: 15vw;
+    scroll-behavior: smooth;
+    padding: 10px 30px;
+}
+
+.sentMail_top{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-bottom: 1px solid black;
+    padding: 0 0 10px 0;
+}
+
+.sentMail_top_top{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sentMail_top_top > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sentMail_top_top > input{
+    background-color: rgb(145, 128, 219);
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    height: 45px;
+    width: 400px;
+    color: black;
+    font-size: 20px;
+}

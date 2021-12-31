@@ -1,0 +1,16 @@
+.sidebarOption {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    border-bottom: 1px solid darkslategrey;
+    cursor: pointer;
+    padding: 0 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.sidebarOptions_icon {
+    display: flex;
+    padding: 0 15px;
+    align-items: center;
+}

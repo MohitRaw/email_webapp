@@ -1,0 +1,80 @@
+{
+  "user1": {
+    "name": "admin",
+    "username": "admin",
+    "password": "12345",
+    "email": "admin@gmail.com",
+    "sent_mail": [{
+      "title": "abcd@email.com",
+      "subject": "hello World",
+      "description": "this is a dummy mail",
+      "time": "9:00am"
+    },
+    {
+      "title": "abcd@email.com",
+      "subject": "hello World",
+      "description": "this is a dummy mail",
+      "time": "9:00am"
+    }],
+    "inbox": [
+      {
+        "title": "abcd@email.com",
+        "subject": "hello World",
+        "description": "this is a dummy mail",
+        "time": "9:00am"
+      },
+      {
+        "title": "xyz@email.com",
+        "subject": "hello World again",
+        "description": "this is a dummy mail again",
+        "time": "10:00am"
+      },
+      {
+        "title": "efg@email.com",
+        "subject": "hello World once more",
+        "description": "this is a dummy mail once more",
+        "time": "12:00am"
+      }
+    ],
+    "trash": []
+  },
+  "user2": {
+    "name": "admin2",
+    "username": "admin2",
+    "password": "12345",
+    "email": "admin2@gmail.com",
+    "sent_mail": [{
+      "title": "abcd@email.com",
+      "subject": "hello World",
+      "description": "this is a dummy mail",
+      "time": "9:00am"
+    },
+    {
+      "title": "abcd@email.com",
+      "subject": "hello World",
+      "description": "this is a dummy mail",
+      "time": "9:00am"
+    }],
+    "inbox": [
+      {
+        "title": "abcd@email.com",
+        "subject": "hello World",
+        "description": "this is a dummy mail",
+        "time": "9:00am"
+      },
+      {
+        "title": "xyz@email.com",
+        "subject": "hello World again",
+        "description": "this is a dummy mail again",
+        "time": "10:00am"
+      },
+      {
+        "title": "efg@email.com",
+        "subject": "hello World once more",
+        "description": "this is a dummy mail once more",
+        "time": "12:00am"
+      }
+    ],
+    "trash": []
+  }
+}

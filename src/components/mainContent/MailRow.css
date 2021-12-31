@@ -1,0 +1,36 @@
+.mailRow {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+.mailRow_content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.mailRow_left {
+    display: flex;
+    align-self: center;
+    width: 300px;
+    padding: 0 0 0 10px;
+}
+
+.mailRow_left >p {
+    padding: 0 0 0 10px;
+}
+
+.mailRow_center{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0 0 0 20px;
+} 
+.mailRow_right {
+    display: flex;
+    width: 400px;
+    justify-content: center;
+}
